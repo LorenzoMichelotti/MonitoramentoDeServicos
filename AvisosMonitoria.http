@@ -1,0 +1,6 @@
+@AvisosMonitoria_HostAddress = http://localhost:5002
+
+GET {{AvisosMonitoria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
